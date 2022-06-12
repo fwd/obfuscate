@@ -3,7 +3,7 @@
 ## Install
 
 ```sh
-$ npm install --save-dev @fwd/obfuscate
+$ npm install @fwd/obfuscate
 ```
 
 ## Usage
