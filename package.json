@@ -1,7 +1,7 @@
 {
   "name": "@fwd/obfuscate",
-  "version": "0.0.1",
-  "description": "JavaScript obfuscator",
+  "version": "0.1.0",
+  "description": "Proper JavaScript Obfuscation",
   "keywords": [],
   "engines": {
     "node": ">=10"
