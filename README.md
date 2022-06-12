@@ -1,6 +1,6 @@
 # fwd/obfuscate
 
-> This package was created for [@fwd/api](https://github.com/fwd/api) - but can be use independently. 
+> This package was created for [@fwd/api](https://github.com/fwd/api) - but can be used separately. 
 
 ## Install
 
