@@ -1,5 +1,7 @@
 # fwd/obfuscate
 
+> This package was created for [@fwd/api](https://github.com/fwd/api) - but can be use independently. 
+
 ## Install
 
 ```sh
